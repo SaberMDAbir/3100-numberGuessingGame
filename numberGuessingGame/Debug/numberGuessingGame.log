@@ -1,0 +1,4 @@
+﻿  numberGuessingGame.cpp
+c:\users\abirc\source\repos\numberguessinggame\numberguessinggame\numberguessinggame.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\abirc\source\repos\numberguessinggame\numberguessinggame\numberguessinggame.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  numberGuessingGame.vcxproj -> C:\Users\abirc\source\repos\numberGuessingGame\Debug\numberGuessingGame.exe
